@@ -1,0 +1,16 @@
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\bin\Debug\net5.0\Projeto_IMC-1.exe
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\bin\Debug\net5.0\Projeto_IMC-1.deps.json
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\bin\Debug\net5.0\Projeto_IMC-1.runtimeconfig.json
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\bin\Debug\net5.0\Projeto_IMC-1.runtimeconfig.dev.json
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\bin\Debug\net5.0\Projeto_IMC-1.dll
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\bin\Debug\net5.0\Projeto_IMC-1.pdb
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\Projeto_IMC-1.csproj.AssemblyReference.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\Projeto_IMC-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\Projeto_IMC-1.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\Projeto_IMC-1.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\Projeto_IMC-1.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\Projeto_IMC-1.dll
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\refint\Projeto_IMC-1.dll
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\Projeto_IMC-1.pdb
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\Projeto_IMC-1.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\Gen\IMC\Projeto_IMC-1\Projeto_IMC-1\obj\Debug\net5.0\ref\Projeto_IMC-1.dll
